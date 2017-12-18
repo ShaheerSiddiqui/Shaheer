@@ -13,8 +13,8 @@ h1 {
   color: black;
   text-align: center;
   font-size: 100px;
-  position: fixed; top: 25px;
-  position: fixed; right: 635px;
+  position: relative; top: 25px;
+  position: relative; right: 635px;
 }
 
 .jean {
