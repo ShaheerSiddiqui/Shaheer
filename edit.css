@@ -20,7 +20,7 @@ h1 {
   color: black;
   font-size: 40px;
   position: relative; top: -60px;
-  position:relative; right: -42px;
+  position:relative; right: -30px;
 }
 
 .jean {
@@ -59,7 +59,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 275px;
-    height: 250px;
+    height: 255px;
     background-color: #4CAF50;
     position:relative; right: -45px;
     position: relative; top: -50px;
