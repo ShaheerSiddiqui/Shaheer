@@ -4,7 +4,7 @@ body {
 
 form {
     border: 3px solid #000;
-    height:418.5px;
+    background-color: #083B73;
 }
 
 h2 {
@@ -52,6 +52,7 @@ img.avatar {
 }
 
 .container {
+    margin-top: 30px;
     padding: 16px;
     color:white;
 }
@@ -60,15 +61,7 @@ span.psw {
     float: right;
     padding-top: 16px;
 }
-.container1{
-    position: relative; top: -420px;
-    position: relative; right: 0px;
-    padding: 16px;
-    height: 311px;
-    width: 322px;
-    background:cover;
-    z-index: -1;
-}
+
 /* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 300px) {
     span.psw {
